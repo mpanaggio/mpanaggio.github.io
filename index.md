@@ -1,3 +1,1 @@
-# This is a test
-
-Does it work?
+See https://markpanaggio.wixsite.com/home/blog for the latest posts.
