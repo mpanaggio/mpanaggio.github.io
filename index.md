@@ -1,1 +1,1 @@
-See https://markpanaggio.wixsite.com/home/blog for the latest posts.
+See [my website](https://markpanaggio.wixsite.com/home/blog) for the latest posts.
